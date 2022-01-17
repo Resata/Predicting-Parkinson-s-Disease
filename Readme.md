@@ -1,0 +1,2 @@
+- In this project, we'll analyze a dataset of patients to predict the likelihood of developing Parkinson's disease.
+- We'll explore the data and then train an XGBBoost model and evaluate its accuracy
